@@ -1,0 +1,26 @@
+﻿body {
+    background-color: darkslategrey
+}
+
+h1 {
+    color: ghostwhite;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+h2 {
+    color: ghostwhite;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+#animationContainer {
+    position: relative;
+}
+
+#animation {
+    position: absolute;
+}
